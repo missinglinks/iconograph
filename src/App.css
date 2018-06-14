@@ -16,7 +16,7 @@
 
 .perimeter {
   padding-top:20px;
-  max-width: 1024px;
+  max-width: 1280px;
   margin: 00 auto;
   display: flex;
   flex-direction: column;
@@ -27,8 +27,18 @@
 }
 
 .copy {
-  padding: 50px;
+  width: 415px;
+  margin-left: 30px;
   font-family: sans-serif;
+}
+
+.elements {
+  width: 415px;
+  margin-left: 50px;
+}
+
+.element {
+  width: 415px;
 }
 
 @media (min-width: 415px) {

@@ -5,15 +5,24 @@
   "dependencies": {
     "@material-ui/core": "^1.2.1",
     "@material-ui/icons": "^1.1.0",
+    "image-size": "^0.6.3",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-image-magnify": "^2.7.0",
-    "react-scripts": "1.1.4"
+    "react-image-zoom": "^0.7.0",
+    "react-native-image-zoom-viewer": "^2.2.5",
+    "react-scripts": "1.1.4",
+    "react-zoomable-image": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "rea": "0.0.1",
+    "react-native": "^0.55.4",
+    "react-native-zoom-image": "^0.1.2"
   }
 }
