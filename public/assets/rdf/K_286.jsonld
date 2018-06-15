@@ -3,6 +3,10 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_286",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Sport, Olympia, Athlet, nackt mit Siegeskranz und Schabeisen (Strigilis), Wendesäule, ",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q734844"
+      ],
       "type": "VisualItem"
     },
     {

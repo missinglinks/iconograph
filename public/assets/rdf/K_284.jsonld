@@ -11,6 +11,10 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_284",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Waffenläufer oder -tänzer, Training, Lehrer oder Kampfrichter, Olympia, Sport",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q3577"
+      ],
       "type": "VisualItem"
     }
   ]

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import WikiInfoDrawer from './components/WikiInfoDrawer'
 import ObjectViewer from './components/ObjectViewer'
-import Typography from '@material-ui/core/Typography'
+import Typography from '@material-ui/core/Typography';
 import './App.css';
 
 class App extends Component {
@@ -9,8 +8,11 @@ class App extends Component {
     return (
       <div className="App">
 
-        <Typography variant="headline" gutterBottom>iconograph[y]</Typography>
+
+        <Typography variant="caption" className="title">iconograph[y]</Typography>
         <ObjectViewer />
+
+
       </div>
     );
   }

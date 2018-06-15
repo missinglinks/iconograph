@@ -31,7 +31,10 @@ class ObjectViewer extends Component {
                     image_s={this.state.artifact.image_s } 
                     width={this.state.artifact.width}
                     height={this.state.artifact.height}
-                    elements={[...this.state.elements]} />
+                    elements={[...this.state.elements]}
+                    description={this.state.artifact.description}
+                    rdf={this.state.artifact.rdf_file}
+                    />
             )
         }
     }
@@ -39,7 +42,9 @@ class ObjectViewer extends Component {
     render() {
         return (
             <div>
-                 <Typography variant="display2" gutterBottom>{ this.state.artifact.title }</Typography>
+
+                 <Typography variant="display2">{ this.state.artifact.title }</Typography>
+
                 {  this.renderImageViewer() }
             </div>
         )

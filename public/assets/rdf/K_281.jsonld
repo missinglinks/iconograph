@@ -11,6 +11,7 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_281",
+      "rdfs:comment": "menschl. Körper/Figur/Akt, Mann, Mäander",
       "represents": [
         "https://www.wikidata.org/wiki/Q898879"
       ],

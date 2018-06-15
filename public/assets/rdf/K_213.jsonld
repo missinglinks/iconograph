@@ -3,6 +3,10 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_213",
+      "rdfs:comment": "Rind, Rindvieh, Reiten/Reiter(in), Frau, Satyrn, Faune, Silene, Klassische Mythologie/Antike Geschichte",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q464091"
+      ],
       "type": "VisualItem"
     },
     {
