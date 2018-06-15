@@ -1,0 +1,23 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_346",
+      "rdfs:comment": "Frau, Mann, Mäander, Olivenzweig, unbekleidet, (fast) nackt zeigen, Klassische Mythologie/Antike Geschichte, Götter (klass. Mythologie) Eros, ",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q121973",
+        "https://www.wikidata.org/wiki/Q37083",
+        "https://www.wikidata.org/wiki/Q898879"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_346",
+      "label": "Rotfigurige apulische Pelike",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_346"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}
