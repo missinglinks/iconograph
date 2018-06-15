@@ -5,8 +5,12 @@
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_219",
       "rdfs:comment": "menschl. Körper/Figur/Akt, Geschichte des Bacchus (Dionysus), Frau, Mann, Musikinstrumente, Musizieren, Lyra, Leier, Zither, Psalterium, Klappern, Kastagnetten, Götter (klass. Mythologie), Dionysos, ……., Hermes, Apollon",
       "represents": [
-        "https://www.wikidata.org/wiki/Q1044408",
-        "https://www.wikidata.org/wiki/Q183932"
+        "https://www.wikidata.org/wiki/Q41484",
+        "https://www.wikidata.org/wiki/Q37340",
+        "https://www.wikidata.org/wiki/Q438479",
+        "https://www.wikidata.org/wiki/Q41680",
+        "https://www.wikidata.org/wiki/Q183932",
+        "https://www.wikidata.org/wiki/Q1044408"
       ],
       "type": "VisualItem"
     },

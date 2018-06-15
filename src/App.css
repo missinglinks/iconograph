@@ -54,6 +54,18 @@
   margin-left: 10px;
 }
 
+.footer {
+  margin-top: 100px;
+}
+
+a {
+  color: #cc6600;
+  text-decoration: none;
+}
+a:hover {
+  color: #ff9966;
+  text-decoration: none;
+}
 
 @media (min-width: 415px) {
   .perimeter {

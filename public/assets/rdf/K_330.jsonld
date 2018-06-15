@@ -2,20 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_330",
-      "rdfs:comment": "Sepulkral, Totenkult, Totentanz, Frau flieht vor Todesdämon Charun, Akt, Axt, Beil, fliehen, wegrennen, verfolgen, Rückseite: am Boden liegender Krieger sucht sich mit dem Schild gegen den gewaltigen Griefen zu wehren",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q1631102"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_330",
       "label": "Rotfiguriger etruskischer Stamnos",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_330"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_330",
+      "rdfs:comment": "Sepulkral, Totenkult, Totentanz, Frau flieht vor Todesdämon Charun, Akt, Axt, Beil, fliehen, wegrennen, verfolgen, Rückseite: am Boden liegender Krieger sucht sich mit dem Schild gegen den gewaltigen Griefen zu wehren",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

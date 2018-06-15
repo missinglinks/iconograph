@@ -13,8 +13,8 @@
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_209",
       "rdfs:comment": "Götter (klass. Mythologie), Efeuranken, Götterversammlung, Hermes und andere",
       "represents": [
-        "https://www.wikidata.org/wiki/Q26354",
-        "https://www.wikidata.org/wiki/Q41484"
+        "https://www.wikidata.org/wiki/Q41484",
+        "https://www.wikidata.org/wiki/Q26354"
       ],
       "type": "VisualItem"
     }

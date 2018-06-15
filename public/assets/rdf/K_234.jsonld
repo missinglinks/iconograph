@@ -2,6 +2,14 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
+      "id": "https://www.lindenau-museum.de/antike/K_234",
+      "label": "Rotfigurige attische Trinkschale (Kylix)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_234"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_234",
       "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Jüngling, nackt, Rundschild, Waffenlauf, Sport, ",
       "represents": [
@@ -9,14 +17,6 @@
         "https://www.wikidata.org/wiki/Q2176287"
       ],
       "type": "VisualItem"
-    },
-    {
-      "id": "https://www.lindenau-museum.de/antike/K_234",
-      "label": "Rotfigurige attische Trinkschale (Kylix)",
-      "shows": [
-        "https://www.lindenau-museum.de/antike/VisualItem/K_234"
-      ],
-      "type": "ManMadeObject"
     }
   ]
 }
