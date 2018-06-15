@@ -4,7 +4,7 @@ Frontend-Applikation für https://github.com/missinglinks/iconography
 
 ## Lizenz 
 
-MIT
+GNU GENERAL PUBLIC LICENSE Version 3
 
 ## Dank
 
