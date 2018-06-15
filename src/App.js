@@ -10,8 +10,12 @@ class App extends Component {
     return (
       <div className="App">
 
+        <div className="perimeter">
+        <div className="header" align="left">
+          <img src="images/logo.png" />
+        </div>
+        </div>
 
-        <Typography variant="caption" className="title">iconograph[y]</Typography>
         <ObjectViewer />
 
         <div className="footer">

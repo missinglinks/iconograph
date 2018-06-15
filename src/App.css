@@ -54,8 +54,13 @@
   margin-left: 10px;
 }
 
+.header {
+  align-content: left;
+  margin-bottom: 40px;
+}
+
 .footer {
-  margin-top: 100px;
+  margin-top: 75px;
 }
 
 a {
