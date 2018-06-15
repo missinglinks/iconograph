@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import ImageViewer from './ImageViewer'
+import Typography from '@material-ui/core/Typography'
+
 class ObjectViewer extends Component {
     constructor() {
         super()
@@ -37,7 +39,7 @@ class ObjectViewer extends Component {
     render() {
         return (
             <div>
-                <h2>{ this.state.artifact.title }</h2>
+                 <Typography variant="display2" gutterBottom>{ this.state.artifact.title }</Typography>
                 {  this.renderImageViewer() }
             </div>
         )
