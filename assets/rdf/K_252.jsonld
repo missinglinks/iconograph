@@ -1,0 +1,21 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_252",
+      "label": "Rotfiguriger attischer Eulenskyphos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_252"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_252",
+      "rdfs:comment": "Eulen, Olivenzweig",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q37083"
+      ],
+      "type": "VisualItem"
+    }
+  ]
+}
