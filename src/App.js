@@ -30,7 +30,7 @@ class App extends Component {
 
             <Typography>
               <b>iconograph[y]</b> ist im Rahmen des <a href="https://codingdavinci.de/events/ost/" target="new">Coding Da Vinci Ost 2018</a> entstanden.<br />
-              Lizenz: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a> - <a href="mailto:peter.muehelder@uni-leipzig.de">Kontakt</a> - <a href="https://github.com/missinglinks/iconography">Github</a> <a href="https://github.com/missinglinks/iconography-frontend">*</a>
+              Lizenz: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a> - <a href="mailto:peter.muehelder@uni-leipzig.de">Kontakt</a> - <a href="https://github.com/missinglinks/iconography">Github</a> <a href="https://github.com/missinglinks/iconograph">*</a>
 
             </Typography>
 

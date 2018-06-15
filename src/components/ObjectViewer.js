@@ -12,7 +12,7 @@ class ObjectViewer extends Component {
     }
 
     componentDidMount() {
-        fetch('http://localhost:6660/object')
+        fetch('http://37.120.165.192:6660/object')
             .then((results) => results.json())
             .then((json) => {
                 this.setState( {
