@@ -1,4 +1,4 @@
-# iconography[y] Frontend
+# iconograph[y] Frontend
 
 Frontend-Applikation für https://github.com/missinglinks/iconography
 
